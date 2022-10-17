@@ -1,0 +1,102 @@
+* {
+    margin:0;
+}
+
+body {
+    background-color:hsl(216, 51%, 24%) ;
+}
+
+
+footer{
+    background-color: hsl(216, 50%, 16%);
+    width: 100px;
+    height: 657px;
+    border-top-right-radius: 17px;
+    border-bottom-right-radius: 17px;
+    float:left;
+    
+    
+}
+
+img.packman{
+width: 100px;
+height: 80px;
+border-bottom-right-radius: 17px;
+border-top-right-radius: 17px;
+}
+
+hr {
+
+    opacity: 60%;
+    margin-top:490px;
+
+}
+
+img.ja{
+    width:45px;
+    height:45px;
+    margin-top:20px;
+    margin-left:25px;
+}
+
+div.calosc {
+    float:left;
+}
+h1 {
+    margin-left:300px;
+    margin-top:70px;
+    color:white;
+}
+
+h5 {
+    margin-left:300px;
+    color:white;
+}
+
+text.invoices
+{
+    margin-left:300px;
+    color:white;
+}
+
+text.filter {
+    margin-left:300px;
+    color:white;
+ 
+}
+
+
+div.info{
+    color:white;
+    margin-top:25px;
+    background-color: rgb(38, 17, 87);
+    
+    margin-left:300px;
+    margin-right:200px;
+    font-size:24px;
+    border-radius: 50px;
+}
+
+text.status{
+    
+    margin-right:10px;
+}
+
+text.id{
+    margin-left:10px;
+}
+
+text.data{
+    margin-left:10px;
+}
+
+text.imie_nazwisko
+{
+    margin-left:10px;
+}
+
+text.kwota{
+    margin-left:10px;
+    
+}
+
